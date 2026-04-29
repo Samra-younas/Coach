@@ -20,7 +20,7 @@
 https://github.com/user-attachments/assets/e8723cd6-37fd-42ba-8be2-d94f660bb2b1
 ## 🔗 Links
 
-- 🌐 **Live Demo:** ([https://your-app.vercel.app](https://coach-py3s9q1az-samras-projects-d5c0a654.vercel.app/))
+- 🌐 **Live Demo:** (https://coach-py3s9q1az-samras-projects-d5c0a654.vercel.app/))
 - 💻 **GitHub:** [github.com/Samra-younas/ai-english-coach](https://github.com/Samra-younas/ai-english-coach)
 
 ---
